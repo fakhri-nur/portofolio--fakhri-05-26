@@ -51,7 +51,7 @@ export default function Contact() {
       <div className="section-container">
         <SectionHeading
           label="Kontak"
-          title="Mari Terhubung"
+          title="Hubungi Saya 📩"
           subtitle="Punya proyek menarik atau ingin berkolaborasi? Kirim pesan dan saya akan segera merespons."
         />
 
