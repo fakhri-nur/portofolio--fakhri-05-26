@@ -87,7 +87,7 @@ export default function Contact() {
                 <div>
                   <p className="font-semibold text-slate-900 dark:text-white">Lokasi</p>
                   <p className="text-sm text-slate-600 dark:text-slate-400">
-                    Indonesia
+                    Bogor, Jawa barat, Indonesia
                   </p>
                 </div>
               </div>

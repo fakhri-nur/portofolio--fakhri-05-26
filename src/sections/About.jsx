@@ -58,7 +58,7 @@ export default function About() {
               {/* Edit di sini: ganti lokasi dan pendidikan */}
               <div className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-400">
                 <MapPin className="w-4 h-4 text-brand-600" />
-                <span>Bogor</span>
+                <span>Bogor, Jawa Barat, Indonesia</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-400">
                 <GraduationCap className="w-4 h-4 text-brand-600" />
