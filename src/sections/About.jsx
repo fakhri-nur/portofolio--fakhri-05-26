@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { MapPin, GraduationCap } from "lucide-react";
+import { MapPin, GraduationCap, Download } from "lucide-react";
 import SectionHeading from "../components/SectionHeading";
 import poto from "../image/poto.png";
 
@@ -66,8 +66,13 @@ export default function About() {
               </div>
             </div>
 
-            <a href="#contact" className="btn-primary inline-flex mt-4">
-              Mari Berkolaborasi
+            <a
+              href="/cv/cv-fakhri.pdf"
+              download="cv-fakhri.pdf"
+              className="btn-primary inline-flex items-center gap-2 mt-4"
+            >
+              <Download className="w-4 h-4" />
+              Download CV
             </a>
           </motion.div>
         </div>
